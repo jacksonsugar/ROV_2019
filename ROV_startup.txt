@@ -1,0 +1,27 @@
+ROV Startup
+
+- Connect to RAMROV
+
+hydro$ roscore
+
+hydro$ ros_ini
+
+hydro$ ramrov
+
+	RAMROV$ hat_ini
+
+hydro$ ramrov
+
+	RAMROV$ pressure-ros
+
+hydro$ ramrov
+
+	RAMROV$ multi-adc
+
+- cameras
+
+	-> camera-check
+
+	-> camera-ml1
+
+	-> camera-ml2
